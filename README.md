@@ -3,7 +3,6 @@
 A full-stack search system demonstrating **keyword**, **semantic**, and **hybrid retrieval** — built to compare how each method surfaces results across the same corpus.
 
 Combines an inverted-index TF-IDF ranker with semantic vector search using sentence embeddings and FAISS, with results merged through Reciprocal Rank Fusion (RRF). Deployed with a FastAPI backend and a React (Vite) frontend.
----
 
 ## How It Works
 
